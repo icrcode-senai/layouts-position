@@ -20,6 +20,12 @@ body {
     padding-right: 80px;
 }
 
-.flex{
+.green {
+    background-color: rgb(105, 224, 78);
+    padding-bottom: 80px;
+
+}
+
+.flex {
     display: flex;
 }
